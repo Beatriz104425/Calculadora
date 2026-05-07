@@ -16,6 +16,6 @@ function result(){
     try{
         display.value = eval(display.value)
     } catch{
-
+        
     }
 }
