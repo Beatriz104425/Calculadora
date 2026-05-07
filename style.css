@@ -1,0 +1,31 @@
+bod {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #1c1b1b;
+}
+
+h1{
+    color: white;
+}
+
+.calculator{
+    background-color: white;
+    width: 300px;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+#display{
+    width: 100%;
+    box-sizing: border-box;
+    height: 60px;
+    border: none;
+    border-radius: 6px;
+    background-color: #f0f0;
+}
